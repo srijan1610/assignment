@@ -31,10 +31,10 @@ c=s1&s2
 print(c)
 
 #dictionries
-q1
+#q1
 a=input("enter name")
-b=input("enter age")
-c={'name':a,'age':b}
+b=input("enter marks")
+c={'name':a,'marks':b}
 print(c)
 
 #q3
