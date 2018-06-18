@@ -10,8 +10,8 @@ t=Tiger()
 t.tiger_attribute()
 
 #Q2
-#AB
-#AB
+AB
+AB
 
 
 #Q3
