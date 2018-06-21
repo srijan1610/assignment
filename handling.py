@@ -1,9 +1,7 @@
-
-
 #Q1
 
 #it is zero division error
-'''
+
 class handle(Exception):
     pass
 try:
@@ -13,35 +11,29 @@ try:
         raise handle
 except ZeroDivisionError:
     print("it cannot be divisible by zero it will give zero division error")
-'''
-
 
 #Q2
 
 #it is Index error
-'''
+
 try:
     l=[1,2,3]
     print(l[3])
 except IndexError:
     print("enter correct index value")
-'''
-
 
 #Q3
 #An exception
-
 
 #Q4
 
 #-5.0
 #a/b result in 0
 
-
 #Q5
-'''
+
 try:
-    import rajat
+    import srijan
 except ImportError:
     print("enter a valid import file")
 
@@ -68,8 +60,6 @@ try:
     print(l[2])
 except IndexError:
     print("enter correct index value")
-
-'''
 
 #Q6
 class AgeError(Exception):
